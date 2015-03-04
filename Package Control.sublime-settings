@@ -9,6 +9,17 @@
 	],
 	"installed_packages":
 	[
+		"Expand Tabs on Save",
+        	"Gist",
+        	"Git",
+        	"GitGutter",
+        	"gitp",
+        	"Grunt",
+        	"Gulp",
+        	"HTMLBeautify",
+        	"jQuery",
+        	"List stylesheet variables",
+        	"MagentoSnippets",
 		"HTMLBeautify",
 		"JSHint",
 		"MarkdownEditing",
